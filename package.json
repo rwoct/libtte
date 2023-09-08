@@ -53,7 +53,7 @@
     "sweetalert": "^2.1.2",
     "tslib": "^1.9.0",
     "validatorjs": "^3.15.1",
-    "zone.js": "~0.8.26"
+    "zone.js": "~0.13.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.13.0",
