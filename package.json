@@ -27,7 +27,7 @@
     "angular2-materialize": "^15.1.10",
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
-    "bcrypt": "^3.0.4",
+    "bcrypt": "^5.0.1",
     "blockchain-wallet-service": "^0.26.3",
     "blockchain.info": "^2.12.1",
     "body-parser": "^1.18.3",
